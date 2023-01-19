@@ -38,10 +38,17 @@ Realizar los ejercicios acorde a los temas por medio de identificación de los p
 
 ![image](https://user-images.githubusercontent.com/116777118/213370326-70ab552b-44bc-43fd-a4ff-6989603958b5.png)
 
-![image](https://user-images.githubusercontent.com/116777118/213371418-79cd34cc-dcf3-4247-b2b7-57a5d05b9d7a.png)
+![image](https://user-images.githubusercontent.com/116777118/213371855-9887099c-bf56-40fa-86b4-0c649d5566bd.png)
 
+![image](https://user-images.githubusercontent.com/116777118/213372609-8c3d5a98-dc1d-45ff-a5dc-a290f69739d1.png)
 
+![image](https://user-images.githubusercontent.com/116777118/213372770-b44bdae0-2435-450f-85d6-9955f7775e4e.png)
 
+![image](https://user-images.githubusercontent.com/116777118/213373337-1b2804a9-db84-4141-8873-b40c53079d72.png)
+
+![image](https://user-images.githubusercontent.com/116777118/213374144-d0540a0c-2456-4e4a-876b-6c0b36a0a04c.png)
+
+![image](https://user-images.githubusercontent.com/116777118/213374541-ada82a28-0792-4479-a573-2b701076919f.png)
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 ## PROBLEMAS Unidad 11: Ejercicios pares ##
