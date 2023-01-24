@@ -18,21 +18,19 @@ Realizar los ejercicios acorde a los temas por medio de identificación de los p
 
 ![image](https://user-images.githubusercontent.com/116777118/213364734-cc1d834a-7d1b-4f08-969b-0a54efca182e.png)
 
-![image](https://user-images.githubusercontent.com/116777118/213364977-56e6fbda-6ef0-43f0-8aa9-8b6ca856531d.png)
+![image](https://user-images.githubusercontent.com/116777118/214362276-8a6aebb8-c18c-4130-a717-d59eb0bffbc6.png)
 
-![image](https://user-images.githubusercontent.com/116777118/213365612-a299195c-b3d3-4126-9a29-2168c2b8271f.png)
+![image](https://user-images.githubusercontent.com/116777118/214362702-729c963f-acc4-4e15-97a5-3c48e6a371a1.png)
 
-![image](https://user-images.githubusercontent.com/116777118/213366008-685e132c-bf4d-427f-994a-488f001f387a.png)
+![image](https://user-images.githubusercontent.com/116777118/214363391-b365d2bb-63f2-4b87-945e-eaa0be59f9a7.png)
 
-![image](https://user-images.githubusercontent.com/116777118/213366461-10206557-bd75-46c2-95bb-148a269b0e21.png)
+![image](https://user-images.githubusercontent.com/116777118/214363605-f677065f-30ed-42e4-aef7-3e4c6fde7321.png)
 
-![image](https://user-images.githubusercontent.com/116777118/213367082-79ae506d-3326-4dae-8686-1d5eca9bb303.png)
+![image](https://user-images.githubusercontent.com/116777118/214363885-c9dd242e-f2c4-4c89-9d20-6d2661a7fc2b.png)
 
-![image](https://user-images.githubusercontent.com/116777118/213367522-ea20384a-e1c0-4cf2-95d7-f680336d4ee0.png)
+![image](https://user-images.githubusercontent.com/116777118/214364060-f994d7a7-8ed4-48e1-9bdf-272a8b65e9e7.png)
 
 ![image](https://user-images.githubusercontent.com/116777118/213367877-afb2ba3c-7c22-418b-b3bd-760536c33ba3.png)
-
-![image](https://user-images.githubusercontent.com/116777118/213368459-8ce3e17e-6bd4-4bd9-b5bc-e1e917c8224a.png)
 
 - **Capítulo 12**
 
@@ -44,7 +42,7 @@ Realizar los ejercicios acorde a los temas por medio de identificación de los p
 
 ![image](https://user-images.githubusercontent.com/116777118/213372770-b44bdae0-2435-450f-85d6-9955f7775e4e.png)
 
-![image](https://user-images.githubusercontent.com/116777118/213373337-1b2804a9-db84-4141-8873-b40c53079d72.png)
+![image](https://user-images.githubusercontent.com/116777118/214365904-ed1e2c10-03e0-470a-be8b-fadd07793853.png)
 
 ![image](https://user-images.githubusercontent.com/116777118/213374144-d0540a0c-2456-4e4a-876b-6c0b36a0a04c.png)
 
